@@ -1,0 +1,21 @@
+TITLE
+-----
+
+Olympian Battle Camera
+
+
+DESCRIPTION
+-----------
+
+[h1]Mod description[/h1]
+
+A battle camera mod for Total War: Attila with adjusted height parameters.
+It allows the battle camera to move down to ground level as well as to move further up in the sky.
+
+
+[h1]Miscellaneous[/h1]
+[list]
+[*] See [url=http://www.twcenter.net/forums/showthread.php?681662-MOD-Battle-Camera]here[/url] for the TW Center page of this mod.
+[*] See [url=http://steamcommunity.com/sharedfiles/filedetails/?id=434333368]here[/url] for a campaign camera mod in the Steam Workshop.
+[*] Big thanks to Nozi87 for the video above and GODzilla for testing!
+[/list]
